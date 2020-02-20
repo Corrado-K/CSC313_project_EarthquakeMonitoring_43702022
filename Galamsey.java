@@ -10,7 +10,7 @@
 
 public class Galamsey extends Position{
 
-    //private static enum VegColor{GREEN, YELLOW, BROWN};
+   
 
     
     private int colorVal;
